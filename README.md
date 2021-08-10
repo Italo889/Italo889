@@ -23,3 +23,5 @@
   <a href="https://www.linkedin.com/in/italo-nascimento-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href = "mailto:italo889@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  ![Snake animation](https://github.com/italo889/italo889/blob/output/github-contribution-grid-snake.svg)
