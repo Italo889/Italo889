@@ -35,3 +35,9 @@
 </div>
 
   ![Snake animation](https://github.com/italo889/italo889/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/italo889/count.svg?"  />
+</div>
+
+###
