@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Terminal animado e radar de interesses de Ítalo">
+<title>Terminal animado e radar de interesses de Ítalo</title>
+<defs>
+  <linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080B0A"/><stop offset="0.6" stop-color="#0B1410"/><stop offset="1" stop-color="#10241A"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#65D99A" stop-opacity="0.28"/><stop offset="1" stop-color="#65D99A" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="0" y1="-100" x2="-64" y2="-77">
+    <stop offset="0" stop-color="#65D99A" stop-opacity="0.45"/><stop offset="1" stop-color="#65D99A" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M30 0H0V30" fill="none" stroke="#1B4932" stroke-opacity="0.35" stroke-width="1"/>
+  </pattern>
+  <clipPath id="frame"><rect width="900" height="340" rx="18"/></clipPath>
+  <clipPath id="c0"><rect x="64" y="82" width="0" height="22"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;0" keyTimes="0;0.03750;0.04297;0.04844;0.05391;0.05937;0.06484;0.07031;0.07578;0.96875"/></rect></clipPath>
+  <clipPath id="c1"><rect x="64" y="108" width="0" height="22"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;0" keyTimes="0;0.10000;0.10208;0.10417;0.10625;0.10833;0.11042;0.11250;0.11458;0.11667;0.11875;0.12083;0.12292;0.12500;0.12708;0.12917;0.13125;0.13333;0.13542;0.13750;0.13958;0.14167;0.14375;0.14583;0.14792;0.15000;0.15208;0.15417;0.15625;0.15833;0.16042;0.16250;0.16458;0.16667;0.16875;0.17083;0.17292;0.96875"/></rect></clipPath>
+  <clipPath id="c2"><rect x="64" y="142" width="0" height="22"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;0" keyTimes="0;0.23750;0.24196;0.24643;0.25089;0.25536;0.25982;0.26429;0.26875;0.27321;0.27768;0.28214;0.28661;0.29107;0.29554;0.96875"/></rect></clipPath>
+  <clipPath id="c3"><rect x="64" y="168" width="0" height="22"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;0" keyTimes="0;0.32500;0.32771;0.33042;0.33313;0.33583;0.33854;0.34125;0.34396;0.34667;0.34937;0.35208;0.35479;0.35750;0.36021;0.36292;0.36562;0.36833;0.37104;0.37375;0.37646;0.37917;0.38188;0.38458;0.38729;0.39000;0.39271;0.39542;0.39813;0.40083;0.40354;0.96875"/></rect></clipPath>
+  <clipPath id="c4"><rect x="64" y="202" width="0" height="22"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;0" keyTimes="0;0.47500;0.47917;0.48333;0.48750;0.49167;0.49583;0.50000;0.50417;0.50833;0.51250;0.51667;0.52083;0.52500;0.52917;0.53333;0.53750;0.54167;0.54583;0.55000;0.55417;0.55833;0.96875"/></rect></clipPath>
+  <clipPath id="c5"><rect x="64" y="228" width="0" height="22"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369;0" keyTimes="0;0.58750;0.58933;0.59116;0.59299;0.59482;0.59665;0.59848;0.60030;0.60213;0.60396;0.60579;0.60762;0.60945;0.61128;0.61311;0.61494;0.61677;0.61860;0.62043;0.62226;0.62409;0.62591;0.62774;0.62957;0.63140;0.63323;0.63506;0.63689;0.63872;0.64055;0.64238;0.64421;0.64604;0.64787;0.64970;0.65152;0.65335;0.65518;0.65701;0.65884;0.66067;0.96875"/></rect></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="900" height="340" fill="url(#bgg)"/>
+<rect width="900" height="340" fill="url(#grid)"/>
+<circle cx="730" cy="170" r="210" fill="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="0" y="-4" width="900" height="3" fill="#65D99A" opacity="0.06"><animate attributeName="y" values="-4;340" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="40" y="30" width="500" height="280" rx="12" fill="#050807" stroke="#1B4932" stroke-width="1.5"/>
+<path d="M40 62H540V42a12 12 0 0 0-12-12H52a12 12 0 0 0-12 12Z" fill="#101510"/>
+<line x1="40" y1="62" x2="540" y2="62" stroke="#1B4932"/>
+<circle cx="60" cy="46" r="5" fill="#1B4932"/>
+<circle cx="80" cy="46" r="5" fill="#2F7A52"/>
+<circle cx="100" cy="46" r="5" fill="#65D99A"/>
+<text x="290" y="50" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8FA398">italo889 — zsh</text>
+<g clip-path="url(#c0)"><text x="64" y="98" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" textLength="72" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#65D99A">$ </tspan><tspan fill="#E4F5E9">whoami</tspan></text></g>
+<g clip-path="url(#c1)"><text x="64" y="124" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" textLength="324" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#B5C4BA">italo889 · desenvolvedor de software</tspan></text></g>
+<g clip-path="url(#c2)"><text x="64" y="158" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" textLength="126" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#65D99A">$ </tspan><tspan fill="#E4F5E9">cat foco.txt</tspan></text></g>
+<g clip-path="url(#c3)"><text x="64" y="184" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#B5C4BA">web · backend · cibersegurança</tspan></text></g>
+<g clip-path="url(#c4)"><text x="64" y="218" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" textLength="189" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#65D99A">$ </tspan><tspan fill="#E4F5E9">./aprender --sempre</tspan></text></g>
+<g clip-path="url(#c5)"><text x="64" y="244" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" textLength="369" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#65D99A">[ok] em execução, sem previsão de término</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.67500;0.96875"/><text x="64" y="278" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#65D99A" xml:space="preserve">$ </text><rect x="84.0" y="264" width="9" height="18" fill="#65D99A"><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+<g>
+<circle cx="730" cy="170" r="100" fill="none" stroke="#1B4932" stroke-width="1.2"/>
+<circle cx="730" cy="170" r="66.6667" fill="none" stroke="#1B4932" stroke-width="1.2"/>
+<circle cx="730" cy="170" r="33.3333" fill="none" stroke="#1B4932" stroke-width="1.2"/>
+<line x1="630" y1="170" x2="830" y2="170" stroke="#1B4932"/>
+<line x1="730" y1="70" x2="730" y2="270" stroke="#1B4932"/>
+<g transform="translate(730 170)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/><path d="M0 0L0 -100A100 100 0 0 0 -64.3 -76.6Z" fill="url(#sweep)"/><line x1="0" y1="0" x2="0" y2="-100" stroke="#65D99A" stroke-width="1.6"/></g></g>
+<g opacity="0.15"><animate attributeName="opacity" values="1;0.15" dur="8s" begin="0.67s" repeatCount="indefinite"/><circle cx="765.0" cy="109.4" r="7" fill="#65D99A" opacity="0.25"/><circle cx="765.0" cy="109.4" r="3.2" fill="#65D99A"/><text x="774.0" y="112.9" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#E4F5E9">WEB</text></g>
+<g opacity="0.15"><animate attributeName="opacity" values="1;0.15" dur="8s" begin="2.11s" repeatCount="indefinite"/><circle cx="774.8" cy="173.9" r="7" fill="#65D99A" opacity="0.25"/><circle cx="774.8" cy="173.9" r="3.2" fill="#65D99A"/><text x="783.8" y="177.4" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#E4F5E9">BACKEND</text></g>
+<g opacity="0.15"><animate attributeName="opacity" values="1;0.15" dur="8s" begin="3.56s" repeatCount="indefinite"/><circle cx="757.4" cy="245.2" r="7" fill="#65D99A" opacity="0.25"/><circle cx="757.4" cy="245.2" r="3.2" fill="#65D99A"/><text x="766.4" y="248.7" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#E4F5E9">REDES</text></g>
+<g opacity="0.15"><animate attributeName="opacity" values="1;0.15" dur="8s" begin="5.00s" repeatCount="indefinite"/><circle cx="687.6" cy="212.4" r="7" fill="#65D99A" opacity="0.25"/><circle cx="687.6" cy="212.4" r="3.2" fill="#65D99A"/><text x="678.6" y="215.9" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#E4F5E9">SISTEMAS OP.</text></g>
+<g opacity="0.15"><animate attributeName="opacity" values="1;0.15" dur="8s" begin="6.67s" repeatCount="indefinite"/><circle cx="656.4" cy="127.5" r="7" fill="#65D99A" opacity="0.25"/><circle cx="656.4" cy="127.5" r="3.2" fill="#65D99A"/><text x="647.4" y="131.0" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#E4F5E9">SEGURANÇA</text></g>
+<circle cx="730" cy="170" r="3" fill="#E4F5E9"/>
+<text x="730" y="296" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#65D99A">ITALO889</text>
+</g>
+</g>
+<rect x="0.75" y="0.75" width="898.5" height="338.5" rx="18" fill="none" stroke="#1B4932" stroke-width="1.5"/>
+</svg>

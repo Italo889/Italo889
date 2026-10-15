@@ -1,41 +1,121 @@
-## Olá, seja bem vindo ao meu repositório!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF7D5&width=435&lines=Desenvolvedor+de+software)](https://git.io/typing-svg)
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<div>
-  <a href="https://github.com/Italo889">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italo889&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo889&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-##
-
-  ![Snake animation](https://github.com/italo889/italo889/blob/output/github-contribution-grid-snake.svg)
+<!-- Se você está lendo o código-fonte deste README, já é meio caminho andado. Há um desafio escondido mais abaixo. -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/italo889/count.svg?"  />
+
+<img src="assets/header.svg" width="100%" alt="Terminal animado e radar de interesses de Ítalo: web, backend, redes, sistemas operacionais e segurança" />
+
+<br />
+
+<a href="https://github.com/italo889?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-65D99A?style=for-the-badge&logo=github&logoColor=080B0A&labelColor=101510" alt="Projetos" /></a>
+<img src="https://img.shields.io/badge/FOCO-WEB_%26_BACKEND-1B4932?style=for-the-badge&labelColor=101510" alt="Foco: web e backend" />
+<img src="https://img.shields.io/badge/ESTUDANDO-CIBERSEGURAN%C3%87A-B5C4BA?style=for-the-badge&labelColor=101510" alt="Estudando cibersegurança" />
+
 </div>
 
-###
+<br />
+
+## `~/sobre`
+
+<div align="center">
+  <img src="assets/neofetch.svg" width="100%" alt="Ficha de perfil: desenvolvedor de software, foco em web e backend, estudando cibersegurança, redes e sistemas operacionais" />
+</div>
+
+<br />
+
+Gosto de entender **como as coisas funcionam por trás da interface**: aplicações, sistemas e as decisões que os mantêm de pé. Desenvolvo software e estudo **segurança cibernética** de forma gradual, sem pular a base de engenharia.
+
+> Cada projeto é uma chance de aprender, experimentar e evoluir.
+
+<br />
+
+## `~/package.json`
+
+```json
+{
+  "name": "italo889",
+  "version": "∞.0.0",
+  "description": "desenvolvedor de software · aprendiz de segurança",
+  "scripts": {
+    "dev": "entender && construir && aprender",
+    "estudar": "ciberseguranca --redes --sistemas-operacionais",
+    "build": "projeto --com-curiosidade"
+  },
+  "dependencies": {
+    "vue": "*",
+    "react": "*",
+    "sass": "*",
+    "node": "*",
+    "python": "*",
+    "mysql": "*",
+    "postgresql": "*",
+    "sqlite": "*"
+  },
+  "devDependencies": {
+    "curiosidade": "latest",
+    "persistencia": "latest"
+  }
+}
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,react,sass,nodejs,python,mysql,postgres,sqlite&theme=dark" alt="Vue, React, Sass, Node.js, Python, MySQL, PostgreSQL e SQLite" />
+
+</div>
+
+<br />
+
+## `~/desafio-escondido`
+
+<details>
+<summary><b>🔐 Para quem curte segurança: decifre a mensagem</b> (clique para abrir)</summary>
+
+<br />
+
+Encontrei isto escrito num bilhete e não consegui ler:
+
+```text
+ZmxhZ3tjdXJpb3NpZGFkZV9lX29fcHJpbWVpcm9fZXhwbG9pdH0=
+```
+
+**Dica:** isso não é criptografia, é só um jeito de transportar bytes como texto. Costuma terminar em `=`, e o terminal do seu Linux já sabe lidar com isso.
+
+Se decifrou, abra uma *issue* neste repositório e me conte o que encontrou. 🙂
+
+</details>
+
+<br />
+
+## `~/estatisticas`
+
+<details>
+<summary><b>📊 Ver estatísticas do GitHub</b></summary>
+
+<br />
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=italo889&show_icons=true&hide_border=true&bg_color=0:080B0A&title_color=65D99A&icon_color=65D99A&text_color=C5D0C9&ring_color=65D99A&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo889&layout=compact&hide_border=true&bg_color=0:080B0A&title_color=65D99A&text_color=C5D0C9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
+
+</div>
+
+</details>
+
+<br />
+
+## `~/atividade`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/italo889/italo889/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições do GitHub" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=italo889&style=flat-square&color=65D99A&label=VISITAS+AO+PERFIL&labelColor=101510" alt="Visitas ao perfil" />
+
+<br /><br />
+
+<img src="assets/footer.svg" width="100%" alt="Entender, desenvolver, aprender, evoluir" />
+
+</div>
