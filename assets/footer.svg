@@ -5,16 +5,13 @@
     <path d="M30 0H0V30" fill="none" stroke="#1B4932" stroke-opacity="0.3"/>
   </pattern>
   <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#65D99A" stop-opacity="0"/><stop offset="0.15" stop-color="#65D99A" stop-opacity="1"/>
-    <stop offset="0.85" stop-color="#65D99A" stop-opacity="1"/><stop offset="1" stop-color="#65D99A" stop-opacity="0"/>
+    <stop offset="0" stop-color="#65D99A" stop-opacity="0.1"/><stop offset="0.5" stop-color="#65D99A" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#65D99A" stop-opacity="0.1"/>
   </linearGradient>
 </defs>
 <rect width="900" height="130" rx="18" fill="#080B0A"/>
 <rect width="900" height="130" rx="18" fill="url(#grid)"/>
-<path d="M0 62 H170 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H440 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H710 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H900" pathLength="1000" fill="none" stroke="#1B4932" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M0 62 H170 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H440 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H710 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H900" pathLength="1000" fill="none" stroke="url(#fade)" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="90 910" stroke-dashoffset="90">
-  <animate attributeName="stroke-dashoffset" from="90" to="-910" dur="4.5s" repeatCount="indefinite"/>
-</path>
+<path d="M0 62 H170 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H440 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H710 l10 -9 l10 9 l9 -38 l13 62 l11 -24 l9 7 l10 -7 H900" fill="none" stroke="url(#fade)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
 <text x="450" y="112" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="4" fill="#8FA398">entender · desenvolver · aprender · evoluir</text>
 <rect x="0.75" y="0.75" width="898.5" height="128.5" rx="18" fill="none" stroke="#1B4932" stroke-width="1.5"/>
 </svg>

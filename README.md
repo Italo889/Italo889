@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Terminal animado e radar de interesses de Ítalo: web, backend, redes, sistemas operacionais e segurança" />
+<img src="assets/header.svg" width="100%" alt="Terminal e radar de interesses de Ítalo: web, backend, redes, sistemas operacionais e segurança" />
 
 <br />
 
@@ -88,27 +88,10 @@ Se decifrou, abra uma *issue* neste repositório e me conte o que encontrou. �
 
 ## `~/estatisticas`
 
-<details>
-<summary><b>📊 Ver estatísticas do GitHub</b></summary>
-
-<br />
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=italo889&show_icons=true&hide_border=true&bg_color=0:080B0A&title_color=65D99A&icon_color=65D99A&text_color=C5D0C9&ring_color=65D99A&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo889&layout=compact&hide_border=true&bg_color=0:080B0A&title_color=65D99A&text_color=C5D0C9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
-
-</div>
-
-</details>
-
-<br />
-
-## `~/atividade`
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/italo889/italo889/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=italo889&show_icons=true&hide_border=true&bg_color=080B0A&title_color=65D99A&icon_color=65D99A&text_color=C5D0C9&ring_color=65D99A&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo889&layout=compact&hide_border=true&bg_color=080B0A&title_color=65D99A&text_color=C5D0C9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br /><br />
 
