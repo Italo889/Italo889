@@ -2,25 +2,19 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Terminal e radar de interesses de Ítalo: web, backend, redes, sistemas operacionais e segurança" />
+<img src="assets/header.svg" width="100%" alt="Terminal com o perfil de Ítalo: desenvolvedor de software, web e backend, estudando cibersegurança" />
 
 <br />
 
-<a href="https://github.com/italo889?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-65D99A?style=for-the-badge&logo=github&logoColor=080B0A&labelColor=101510" alt="Projetos" /></a>
-<img src="https://img.shields.io/badge/FOCO-WEB_%26_BACKEND-1B4932?style=for-the-badge&labelColor=101510" alt="Foco: web e backend" />
-<img src="https://img.shields.io/badge/ESTUDANDO-CIBERSEGURAN%C3%87A-B5C4BA?style=for-the-badge&labelColor=101510" alt="Estudando cibersegurança" />
+<a href="https://github.com/italo889?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-bd93f9?style=for-the-badge&logo=github&logoColor=21222c&labelColor=21222c" alt="Projetos" /></a>
+<img src="https://img.shields.io/badge/FOCO-WEB_%26_BACKEND-44475a?style=for-the-badge&labelColor=21222c" alt="Foco: web e backend" />
+<img src="https://img.shields.io/badge/ESTUDANDO-CIBERSEGURAN%C3%87A-f8f8f2?style=for-the-badge&labelColor=21222c" alt="Estudando cibersegurança" />
 
 </div>
 
 <br />
 
 ## `~/sobre`
-
-<div align="center">
-  <img src="assets/neofetch.svg" width="100%" alt="Ficha de perfil: desenvolvedor de software, foco em web e backend, estudando cibersegurança, redes e sistemas operacionais" />
-</div>
-
-<br />
 
 Gosto de entender **como as coisas funcionam por trás da interface**: aplicações, sistemas e as decisões que os mantêm de pé. Desenvolvo software e estudo **segurança cibernética** de forma gradual, sem pular a base de engenharia.
 
@@ -90,15 +84,15 @@ Se decifrou, abra uma *issue* neste repositório e me conte o que encontrou. �
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=italo889&show_icons=true&hide_border=true&bg_color=080B0A&title_color=65D99A&icon_color=65D99A&text_color=C5D0C9&ring_color=65D99A&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo889&layout=compact&hide_border=true&bg_color=080B0A&title_color=65D99A&text_color=C5D0C9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=italo889&show_icons=true&hide_border=true&theme=dracula&bg_color=21222c&locale=pt-br" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo889&layout=compact&hide_border=true&theme=dracula&bg_color=21222c&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=italo889&style=flat-square&color=65D99A&label=VISITAS+AO+PERFIL&labelColor=101510" alt="Visitas ao perfil" />
+<img src="https://komarev.com/ghpvc/?username=italo889&style=flat-square&color=bd93f9&label=VISITAS+AO+PERFIL&labelColor=21222c" alt="Visitas ao perfil" />
 
 <br /><br />
 
-<img src="assets/footer.svg" width="100%" alt="Entender, desenvolver, aprender, evoluir" />
+<sub><code>entender → desenvolver → aprender → evoluir</code></sub>
 
 </div>

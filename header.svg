@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-label="Terminal com o perfil de Ítalo: desenvolvedor de software, web e backend, estudando cibersegurança">
+<title>italo889@github: ~ — perfil</title>
+<rect x="0.75" y="0.75" width="898.5" height="428.5" rx="12" fill="#21222c" stroke="#44475a" stroke-width="1.5"/>
+<path d="M0.75 40V12.75a12 12 0 0 1 12-12H887.25a12 12 0 0 1 12 12V40Z" fill="#191a21"/>
+<line x1="0.75" y1="40" x2="899.25" y2="40" stroke="#44475a"/>
+<circle cx="26" cy="20" r="6" fill="#ff5555"/>
+<circle cx="46" cy="20" r="6" fill="#f1fa8c"/>
+<circle cx="66" cy="20" r="6" fill="#50fa7b"/>
+<text x="450.0" y="24" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="middle" textLength="172.8" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6272a4">italo889@github: ~ — zsh</tspan></text>
+<text x="36" y="76" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="226.8" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#50fa7b">italo889@github</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#bd93f9">~</tspan><tspan fill="#f8f8f2">$ </tspan><tspan fill="#f8f8f2">neofetch</tspan></text>
+<text x="36" y="143" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="168" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9"> _ _        _       </tspan></text>
+<text x="36" y="165" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="168" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">(_) |_ __ _| | ___  </tspan></text>
+<text x="36" y="187" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="168" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">| | __/ _` | |/ _ \ </tspan></text>
+<text x="36" y="209" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="168" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">| | || (_| | | (_) |</tspan></text>
+<text x="36" y="231" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="168" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">|_|\__\__,_|_|\___/ </tspan></text>
+<text x="300" y="110" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="126" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">italo889</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#bd93f9">github</tspan></text>
+<text x="300" y="132" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="126" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6272a4">---------------</tspan></text>
+<text x="300" y="154" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="42" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">Papel</tspan></text>
+<text x="392.4" y="154" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="210" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">Desenvolvedor de software</tspan></text>
+<text x="300" y="176" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="33.6" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">Foco</tspan></text>
+<text x="392.4" y="176" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="109.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">web · backend</tspan></text>
+<text x="300" y="198" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="42" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">Front</tspan></text>
+<text x="392.4" y="198" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="151.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">Vue · React · Sass</tspan></text>
+<text x="300" y="220" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="33.6" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">Back</tspan></text>
+<text x="392.4" y="220" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="134.4" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">Node.js · Python</tspan></text>
+<text x="300" y="242" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="42" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">Dados</tspan></text>
+<text x="392.4" y="242" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="226.8" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">MySQL · PostgreSQL · SQLite</tspan></text>
+<text x="300" y="264" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" textLength="75.6" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#bd93f9">Estudando</tspan></text>
+<text x="392.4" y="264" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="310.8" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">cibersegurança · redes · sistemas op.</tspan></text>
+<rect x="300" y="280" width="30" height="16" fill="#44475a"/>
+<rect x="330" y="280" width="30" height="16" fill="#ff5555"/>
+<rect x="360" y="280" width="30" height="16" fill="#50fa7b"/>
+<rect x="390" y="280" width="30" height="16" fill="#f1fa8c"/>
+<rect x="420" y="280" width="30" height="16" fill="#bd93f9"/>
+<rect x="450" y="280" width="30" height="16" fill="#ff79c6"/>
+<rect x="480" y="280" width="30" height="16" fill="#8be9fd"/>
+<rect x="510" y="280" width="30" height="16" fill="#f8f8f2"/>
+<text x="36" y="344" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="277.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#50fa7b">italo889@github</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#bd93f9">~</tspan><tspan fill="#f8f8f2">$ </tspan><tspan fill="#f8f8f2">cat mantra.txt</tspan></text>
+<text x="36" y="366" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="361.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#f8f8f2">entender → desenvolver → aprender → evoluir</tspan></text>
+<text x="36" y="400" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" textLength="159.6" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#50fa7b">italo889@github</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#bd93f9">~</tspan><tspan fill="#f8f8f2">$ </tspan></text>
+<rect x="195.6" y="386" width="8.4" height="18" fill="#f8f8f2"/>
+</svg>
